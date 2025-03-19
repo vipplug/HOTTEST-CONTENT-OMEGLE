@@ -43,9 +43,6 @@ document.addEventListener('DOMContentLoaded', function () {
     // Para o sétimo vídeo, preço de $25 e link para o redirecionamento
     setupPaypalButton(7, '45.00', 'https://shre.ink/ME56');
 
-    // Para o oitavo vídeo, preço de $25 e link para o redirecionamento
-    setupPaypalButton(8, '35.00', 'https://shre.ink/brv1');
-
     // Para o nono vídeo, preço de $25 e link para o redirecionamento
     setupPaypalButton(9, '25.00', 'https://mega.nz/folder/4FxQUb4I#hWH91cWf0olPXMVB9LwBLw');
 
@@ -53,6 +50,6 @@ document.addEventListener('DOMContentLoaded', function () {
     setupPaypalButton(10, '20.00', 'https://shre.ink/ME52');
 
     // Para o décimo vídeo, preço de $10 e link para o redirecionamento
-    setupPaypalButton(11, '35.00', 'https://shre.ink/MELy');
+    setupPaypalButton(10, '35.00', 'https://shre.ink/MELy');
 });
 
